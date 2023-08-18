@@ -10,6 +10,7 @@
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Python](#python)
+- [Shell](#shell)
 - [TypeScript](#typescript)
 
 ## CSS 
@@ -31,6 +32,10 @@
 ## Python 
 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+
+## Shell 
+
+- [SilentNightx/VitaDockPlus](https://github.com/SilentNightx/VitaDockPlus) - VitaDock+ is a Linux distribution for Raspberry Pi used to create a PlayStation Vita docking station for video output to a TV.
 
 ## TypeScript 
 
