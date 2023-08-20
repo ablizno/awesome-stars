@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C](#c)
 - [CSS](#css)
 - [Go](#go)
 - [JavaScript](#javascript)
@@ -12,6 +13,11 @@
 - [Python](#python)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+
+## C 
+
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+- [strongswan/strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
 
 ## CSS 
 
@@ -23,6 +29,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [702573N/Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable timeline
 
 ## Lua 
