@@ -10,12 +10,15 @@
 - [c](#c)
 - [cli](#cli)
 - [docker](#docker)
+- [game](#game)
+- [game-engine](#game-engine)
 - [git](#git)
 - [hacktoberfest](#hacktoberfest)
 - [lua](#lua)
 - [monitoring](#monitoring)
 - [neovim](#neovim)
 - [others](#others)
+- [python](#python)
 - [self-hosted](#self-hosted)
 - [terminal](#terminal)
 - [vim](#vim)
@@ -40,6 +43,14 @@
 ## docker 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## game 
+
+- [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
+
+## game-engine 
+
+- [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
 
 ## git 
 
@@ -73,6 +84,10 @@
 - [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [urishiraval/obsidian-apple-reminders-plugin](https://github.com/urishiraval/obsidian-apple-reminders-plugin) - A plugin to attempt to bring Apple Reminders into Obsidian.
+
+## python 
+
+- [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
 
 ## self-hosted 
 
