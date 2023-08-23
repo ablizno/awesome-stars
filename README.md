@@ -6,6 +6,7 @@
 ## Contents
 
 - [C](#c)
+- [C++](#c++)
 - [CSS](#css)
 - [Go](#go)
 - [JavaScript](#javascript)
@@ -18,6 +19,10 @@
 
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [strongswan/strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
+
+## C++ 
+
+- [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
 
 ## CSS 
 
