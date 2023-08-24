@@ -11,6 +11,7 @@
 - [Go](#go)
 - [JavaScript](#javascript)
 - [Lua](#lua)
+- [Others](#others)
 - [Python](#python)
 - [Shell](#shell)
 - [TypeScript](#typescript)
@@ -40,6 +41,10 @@
 ## Lua 
 
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+
+## Others 
+
+- [Gcenx/wine-on-mac](https://github.com/Gcenx/wine-on-mac) - How to install wine on mac
 
 ## Python 
 
