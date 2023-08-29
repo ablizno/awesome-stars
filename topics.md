@@ -77,6 +77,7 @@
 
 ## others 
 
+- [HattDroid/Retroarch-Settings-for-Fidelity](https://github.com/HattDroid/Retroarch-Settings-for-Fidelity) - List of settings aiming to reproduce the original video game console experience... ...even if it means degrading the image a bit! 😉
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 - [Gcenx/wine-on-mac](https://github.com/Gcenx/wine-on-mac) - How to install wine on mac
 - [strongswan/strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
