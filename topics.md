@@ -9,12 +9,16 @@
 - [awesome-list](#awesome-list)
 - [c](#c)
 - [cli](#cli)
+- [csharp](#csharp)
 - [docker](#docker)
+- [dotnet](#dotnet)
 - [game](#game)
 - [game-engine](#game-engine)
 - [git](#git)
 - [hacktoberfest](#hacktoberfest)
+- [linux](#linux)
 - [lua](#lua)
+- [macos](#macos)
 - [monitoring](#monitoring)
 - [neovim](#neovim)
 - [others](#others)
@@ -23,6 +27,7 @@
 - [terminal](#terminal)
 - [vim](#vim)
 - [webapp](#webapp)
+- [windows](#windows)
 
 ## awesome 
 
@@ -40,9 +45,17 @@
 
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 
+## csharp 
+
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
+
 ## docker 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## dotnet 
+
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 
 ## game 
 
@@ -63,9 +76,17 @@
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 
+## linux 
+
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
+
 ## lua 
 
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+
+## macos 
+
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 
 ## monitoring 
 
@@ -107,6 +128,10 @@
 ## webapp 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## windows 
+
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 
 
 ## License
