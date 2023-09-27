@@ -13,6 +13,7 @@
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Others](#others)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Shell](#shell)
 - [TypeScript](#typescript)
@@ -53,6 +54,10 @@
 
 - [HattDroid/Retroarch-Settings-for-Fidelity](https://github.com/HattDroid/Retroarch-Settings-for-Fidelity) - List of settings aiming to reproduce the original video game console experience... ...even if it means degrading the image a bit! 😉
 - [Gcenx/wine-on-mac](https://github.com/Gcenx/wine-on-mac) - How to install wine on mac
+
+## PowerShell 
+
+- [Admonstrator/msoffice-removal-tool](https://github.com/Admonstrator/msoffice-removal-tool) - This script tries to uninstall the current version of Microsoft Office and installs a new and fresh copy of Office365
 
 ## Python 
 
