@@ -147,6 +147,7 @@
 
 ## windows 
 
+- [Admonstrator/msoffice-removal-tool](https://github.com/Admonstrator/msoffice-removal-tool) - This script tries to uninstall the current version of Microsoft Office and installs a new and fresh copy of Office365
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 
 
