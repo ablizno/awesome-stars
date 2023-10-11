@@ -10,6 +10,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Go](#go)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Others](#others)
@@ -40,6 +41,10 @@
 
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+
+## Java 
+
+- [Suwayomi/Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server) - A rewrite of Tachiyomi for the Desktop
 
 ## JavaScript 
 
