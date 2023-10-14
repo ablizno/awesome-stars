@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [AppleScript](#applescript)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -18,6 +19,10 @@
 - [Python](#python)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+
+## AppleScript 
+
+- [normen/vim-macos-scripts](https://github.com/normen/vim-macos-scripts) - Applescript files to create Automator actions invoking VIM in Terminal.app
 
 ## C 
 
