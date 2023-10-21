@@ -26,7 +26,7 @@
 
 ## C 
 
-- [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini
+- [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
 - [TheOfficialFloW/MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV) - Allows you to play local multiplayer games on your PS Vita with up to 4 friends
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [strongswan/strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
