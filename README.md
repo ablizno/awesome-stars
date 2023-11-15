@@ -69,6 +69,7 @@
 
 ## Others 
 
+- [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [HattDroid/Retroarch-Settings-for-Fidelity](https://github.com/HattDroid/Retroarch-Settings-for-Fidelity) - List of settings aiming to reproduce the original video game console experience... ...even if it means degrading the image a bit! 😉
 - [Gcenx/wine-on-mac](https://github.com/Gcenx/wine-on-mac) - How to install wine on mac
 
