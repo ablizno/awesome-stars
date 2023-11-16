@@ -115,6 +115,8 @@
 
 ## others 
 
+- [gordlea/remarkable-raindrop](https://github.com/gordlea/remarkable-raindrop) - 
+- [juruen/rmapi](https://github.com/juruen/rmapi) - Go app that allows you to access your reMarkable tablet files through the Cloud API
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
 - [normen/vim-macos-scripts](https://github.com/normen/vim-macos-scripts) - Applescript files to create Automator actions invoking VIM in Terminal.app
 - [TheOfficialFloW/MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV) - Allows you to play local multiplayer games on your PS Vita with up to 4 friends
