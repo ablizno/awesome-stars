@@ -15,6 +15,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Lua](#lua)
+- [OCaml](#ocaml)
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -68,6 +69,10 @@
 
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+
+## OCaml 
+
+- [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 
 ## Others 
 
