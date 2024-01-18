@@ -121,6 +121,7 @@
 
 ## others 
 
+- [JonathanBeverley/KittensGame](https://github.com/JonathanBeverley/KittensGame) - Kittens Game Scripts
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 - [mb1986/rm-hacks](https://github.com/mb1986/rm-hacks) - Small improvements and tweaks for rM devices, covering both rM1 and rM2.
 - [gordlea/remarkable-raindrop](https://github.com/gordlea/remarkable-raindrop) - 
