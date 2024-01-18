@@ -61,6 +61,7 @@
 
 ## JavaScript 
 
+- [JonathanBeverley/KittensGame](https://github.com/JonathanBeverley/KittensGame) - Kittens Game Scripts
 - [gordlea/remarkable-raindrop](https://github.com/gordlea/remarkable-raindrop) - 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [702573N/Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable timeline
