@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [android](#android)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [c](#c)
@@ -14,10 +15,13 @@
 - [docker](#docker)
 - [dotnet](#dotnet)
 - [game](#game)
+- [game-development](#game-development)
 - [game-engine](#game-engine)
 - [git](#git)
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
+- [ios](#ios)
+- [java](#java)
 - [kotlin](#kotlin)
 - [linux](#linux)
 - [lua](#lua)
@@ -35,6 +39,10 @@
 - [vim](#vim)
 - [webapp](#webapp)
 - [windows](#windows)
+
+## android 
+
+- [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
 
 ## awesome 
 
@@ -74,7 +82,12 @@
 
 ## game 
 
+- [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
 - [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
+
+## game-development 
+
+- [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
 
 ## game-engine 
 
@@ -96,6 +109,14 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
+
+## ios 
+
+- [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
+
+## java 
+
+- [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
 
 ## kotlin 
 
