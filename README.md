@@ -11,6 +11,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Elm](#elm)
 - [Go](#go)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -48,6 +49,10 @@
 ## CSS 
 
 - [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
+
+## Elm 
+
+- [roovo/obsidian-card-board](https://github.com/roovo/obsidian-card-board) - An Obsidian plugin to make working with tasks a pleasure (hopefully anyway).
 
 ## Go 
 
