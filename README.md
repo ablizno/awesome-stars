@@ -105,6 +105,7 @@
 
 ## TypeScript 
 
+- [NextFire/apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) - 🎵 Discord Rich Presence Client for the macOS Apple Music app and iTunes
 - [axelson/obsidian-auto-note-mover](https://github.com/axelson/obsidian-auto-note-mover) - This is a plugin for Obsidian (https://obsidian.md).
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
