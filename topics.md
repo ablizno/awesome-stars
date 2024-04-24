@@ -12,6 +12,8 @@
 - [cli](#cli)
 - [cpp](#cpp)
 - [csharp](#csharp)
+- [deno](#deno)
+- [discord](#discord)
 - [docker](#docker)
 - [dotnet](#dotnet)
 - [game](#game)
@@ -71,6 +73,14 @@
 ## csharp 
 
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
+
+## deno 
+
+- [NextFire/apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) - 🎵 Discord Rich Presence Client for the macOS Apple Music app and iTunes
+
+## discord 
+
+- [NextFire/apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) - 🎵 Discord Rich Presence Client for the macOS Apple Music app and iTunes
 
 ## docker 
 
@@ -137,6 +147,7 @@
 
 ## macos 
 
+- [NextFire/apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) - 🎵 Discord Rich Presence Client for the macOS Apple Music app and iTunes
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
