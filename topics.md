@@ -16,6 +16,7 @@
 - [discord](#discord)
 - [docker](#docker)
 - [dotnet](#dotnet)
+- [firefox](#firefox)
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
@@ -89,6 +90,10 @@
 ## dotnet 
 
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
+
+## firefox 
+
+- [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
 
 ## game 
 
