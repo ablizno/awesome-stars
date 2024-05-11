@@ -75,6 +75,7 @@
 
 ## Lua 
 
+- [ablizno/dotfiles](https://github.com/ablizno/dotfiles) - Dotfiles for EndeavourOS
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 
