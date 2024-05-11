@@ -176,6 +176,7 @@
 
 ## others 
 
+- [ablizno/dotfiles](https://github.com/ablizno/dotfiles) - Dotfiles for EndeavourOS
 - [roovo/obsidian-card-board](https://github.com/roovo/obsidian-card-board) - An Obsidian plugin to make working with tasks a pleasure (hopefully anyway).
 - [axelson/obsidian-auto-note-mover](https://github.com/axelson/obsidian-auto-note-mover) - This is a plugin for Obsidian (https://obsidian.md).
 - [JonathanBeverley/KittensGame](https://github.com/JonathanBeverley/KittensGame) - Kittens Game Scripts
