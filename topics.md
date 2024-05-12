@@ -60,6 +60,7 @@
 
 ## c 
 
+- [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 
@@ -139,6 +140,7 @@
 
 ## linux 
 
+- [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 
 ## lua 
