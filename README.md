@@ -21,6 +21,7 @@
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 
@@ -104,6 +105,10 @@
 ## Python 
 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+
+## Rust 
+
+- [efernau/rot8](https://github.com/efernau/rot8) - screen rotation daemon
 
 ## Shell 
 
