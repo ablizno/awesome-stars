@@ -36,6 +36,7 @@
 - [operating-system](#operating-system)
 - [others](#others)
 - [python](#python)
+- [rust](#rust)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [terminal](#terminal)
@@ -204,6 +205,10 @@
 ## python 
 
 - [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
+
+## rust 
+
+- [efernau/rot8](https://github.com/efernau/rot8) - screen rotation daemon
 
 ## self-hosted 
 
