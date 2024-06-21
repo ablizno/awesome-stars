@@ -105,6 +105,7 @@
 
 ## Python 
 
+- [impredicative/irc-rss-feed-bot](https://github.com/impredicative/irc-rss-feed-bot) - Dockerized IRC bot to post RSS/Atom and scraped HTML/JSON/CSV feeds to channels
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## Rust 
