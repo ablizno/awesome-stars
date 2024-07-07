@@ -187,6 +187,7 @@
 
 ## others 
 
+- [Exarkuniv/RetroPie-Extra](https://github.com/Exarkuniv/RetroPie-Extra) - A collection of unofficial scripts for adding more emulators/ports/games to RetroPie.
 - [impredicative/irc-rss-feed-bot](https://github.com/impredicative/irc-rss-feed-bot) - Dockerized IRC bot to post RSS/Atom and scraped HTML/JSON/CSV feeds to channels
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [ablizno/dotfiles](https://github.com/ablizno/dotfiles) - Dotfiles for EndeavourOS
