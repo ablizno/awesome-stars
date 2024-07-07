@@ -115,6 +115,7 @@
 
 ## Shell 
 
+- [Exarkuniv/RetroPie-Extra](https://github.com/Exarkuniv/RetroPie-Extra) - A collection of unofficial scripts for adding more emulators/ports/games to RetroPie.
 - [mb1986/rm-hacks](https://github.com/mb1986/rm-hacks) - Small improvements and tweaks for rM devices, covering both rM1 and rM2.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [SilentNightx/VitaDockPlus](https://github.com/SilentNightx/VitaDockPlus) - VitaDock+ is a Linux distribution for Raspberry Pi used to create a PlayStation Vita docking station for video output to a TV.
