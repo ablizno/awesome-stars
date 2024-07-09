@@ -187,6 +187,7 @@
 
 ## others 
 
+- [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [Exarkuniv/RetroPie-Extra](https://github.com/Exarkuniv/RetroPie-Extra) - A collection of unofficial scripts for adding more emulators/ports/games to RetroPie.
 - [impredicative/irc-rss-feed-bot](https://github.com/impredicative/irc-rss-feed-bot) - Dockerized IRC bot to post RSS/Atom and scraped HTML/JSON/CSV feeds to channels
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
