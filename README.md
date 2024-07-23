@@ -23,6 +23,7 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 
 ## AppleScript 
@@ -121,6 +122,10 @@
 - [mb1986/rm-hacks](https://github.com/mb1986/rm-hacks) - Small improvements and tweaks for rM devices, covering both rM1 and rM2.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [SilentNightx/VitaDockPlus](https://github.com/SilentNightx/VitaDockPlus) - VitaDock+ is a Linux distribution for Raspberry Pi used to create a PlayStation Vita docking station for video output to a TV.
+
+## Swift 
+
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 
 ## TypeScript 
 
