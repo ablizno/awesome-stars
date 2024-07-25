@@ -113,7 +113,7 @@
 
 ## Rust 
 
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [efernau/rot8](https://github.com/efernau/rot8) - screen rotation daemon
 
 ## Shell 
