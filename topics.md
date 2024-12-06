@@ -43,6 +43,7 @@
 - [shell](#shell)
 - [terminal](#terminal)
 - [vim](#vim)
+- [vpn](#vpn)
 - [webapp](#webapp)
 - [windows](#windows)
 
@@ -213,7 +214,6 @@
 - [HattDroid/Retroarch-Settings-for-Fidelity](https://github.com/HattDroid/Retroarch-Settings-for-Fidelity) - List of settings aiming to reproduce the original video game console experience... ...even if it means degrading the image a bit! 😉
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 - [Gcenx/wine-on-mac](https://github.com/Gcenx/wine-on-mac) - How to install wine on mac
-- [strongswan/strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
 - [SilentNightx/VitaDockPlus](https://github.com/SilentNightx/VitaDockPlus) - VitaDock+ is a Linux distribution for Raspberry Pi used to create a PlayStation Vita docking station for video output to a TV.
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [702573N/Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable timeline
@@ -250,6 +250,10 @@
 
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+
+## vpn 
+
+- [strongswan/strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
 
 ## webapp 
 
