@@ -197,6 +197,7 @@
 
 ## others 
 
+- [Aorimn/dislocker](https://github.com/Aorimn/dislocker) - FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX
 - [dale-personal/es-theme-ComicBook](https://github.com/dale-personal/es-theme-ComicBook) - ComicBook Theme 16:9 - Revived
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [Exarkuniv/RetroPie-Extra](https://github.com/Exarkuniv/RetroPie-Extra) - A collection of unofficial scripts for adding more emulators/ports/games to RetroPie.
