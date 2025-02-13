@@ -108,7 +108,7 @@
 
 ## game 
 
-- [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
+- [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
 - [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
 
@@ -131,7 +131,7 @@
 ## hacktoberfest 
 
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
-- [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
+- [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
@@ -141,7 +141,7 @@
 
 ## homebrew 
 
-- [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
+- [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 
 ## ios 
 
