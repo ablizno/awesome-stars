@@ -76,6 +76,7 @@
 
 ## JavaScript 
 
+- [vbguyny/ws4kp](https://github.com/vbguyny/ws4kp) - WeatherStar 4000+
 - [JonathanBeverley/KittensGame](https://github.com/JonathanBeverley/KittensGame) - Kittens Game Scripts
 - [gordlea/remarkable-raindrop](https://github.com/gordlea/remarkable-raindrop) - 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
