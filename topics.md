@@ -210,6 +210,7 @@
 
 ## others 
 
+- [parisni/dfzf](https://github.com/parisni/dfzf) - Effortless window navigation for Sway/i3 with fzf — no tabs, no clutter.
 - [vbguyny/ws4kp](https://github.com/vbguyny/ws4kp) - WeatherStar 4000+
 - [Aorimn/dislocker](https://github.com/Aorimn/dislocker) - FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX
 - [dale-personal/es-theme-ComicBook](https://github.com/dale-personal/es-theme-ComicBook) - ComicBook Theme 16:9 - Revived
