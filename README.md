@@ -133,6 +133,7 @@
 
 ## TypeScript 
 
+- [aedans/mtg-card-links](https://github.com/aedans/mtg-card-links) - Scryfall integration for Obsidian
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [NextFire/apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) - 🎵 Discord Rich Presence Client for the macOS Apple Music app and iTunes
 - [axelson/obsidian-auto-note-mover](https://github.com/axelson/obsidian-auto-note-mover) - This is a plugin for Obsidian (https://obsidian.md).
