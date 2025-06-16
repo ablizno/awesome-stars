@@ -38,6 +38,7 @@
 - [obsidian-plugin](#obsidian-plugin)
 - [operating-system](#operating-system)
 - [others](#others)
+- [productivity](#productivity)
 - [python](#python)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
@@ -234,6 +235,10 @@
 - [Gcenx/wine-on-mac](https://github.com/Gcenx/wine-on-mac) - How to install wine on mac
 - [SilentNightx/VitaDockPlus](https://github.com/SilentNightx/VitaDockPlus) - VitaDock+ is a Linux distribution for Raspberry Pi used to create a PlayStation Vita docking station for video output to a TV.
 - [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
+
+## productivity 
+
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 
 ## python 
 
