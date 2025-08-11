@@ -13,6 +13,7 @@
 - [cli](#cli)
 - [cpp](#cpp)
 - [csharp](#csharp)
+- [css](#css)
 - [deno](#deno)
 - [discord](#discord)
 - [docker](#docker)
@@ -88,6 +89,10 @@
 ## csharp 
 
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
+
+## css 
+
+- [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
 
 ## deno 
 
