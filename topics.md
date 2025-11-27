@@ -11,6 +11,7 @@
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [cli](#cli)
+- [command-line](#command-line)
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
@@ -85,6 +86,11 @@
 ## cli 
 
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+
+## command-line 
+
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [wandersick/enhanced-command-prompt-portable](https://github.com/wandersick/enhanced-command-prompt-portable) - Based on Command Prompt Portable, ECPP enables PC enthusiasts, who bring a lot of portable utilities with them on a flash drive, to easily execute them by names or commands from a consolidated console
 
 ## cpp 
 
