@@ -318,7 +318,7 @@
 ## windows 
 
 - [wandersick/enhanced-command-prompt-portable](https://github.com/wandersick/enhanced-command-prompt-portable) - Based on Command Prompt Portable, ECPP enables PC enthusiasts, who bring a lot of portable utilities with them on a flash drive, to easily execute them by names or commands from a consolidated console
-- [Admonstrator/msoffice-removal-tool](https://github.com/Admonstrator/msoffice-removal-tool) - This script tries to uninstall the current version of Microsoft Office and installs a new and fresh copy of Office365
+- [admonstrator/msoffice-removal-tool](https://github.com/admonstrator/msoffice-removal-tool) - This script tries to uninstall the current version of Microsoft Office and installs a new and fresh copy of Office365
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 
 ## zsh 
