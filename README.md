@@ -107,7 +107,7 @@
 
 ## PowerShell 
 
-- [Admonstrator/msoffice-removal-tool](https://github.com/Admonstrator/msoffice-removal-tool) - This script tries to uninstall the current version of Microsoft Office and installs a new and fresh copy of Office365
+- [admonstrator/msoffice-removal-tool](https://github.com/admonstrator/msoffice-removal-tool) - This script tries to uninstall the current version of Microsoft Office and installs a new and fresh copy of Office365
 
 ## Python 
 
