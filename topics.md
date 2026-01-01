@@ -248,6 +248,7 @@
 
 ## others 
 
+- [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform desktop GUI for rclone & S3.
 - [aedans/mtg-card-links](https://github.com/aedans/mtg-card-links) - Scryfall integration for Obsidian
 - [parisni/dfzf](https://github.com/parisni/dfzf) - Effortless windows management for Sway/i3 with fzf — no tabs, no clutter.
 - [vbguyny/ws4kp](https://github.com/vbguyny/ws4kp) - WeatherStar 4000+
