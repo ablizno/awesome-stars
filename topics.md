@@ -85,6 +85,7 @@
 
 ## cli 
 
+- [wandersick/enhanced-command-prompt-portable](https://github.com/wandersick/enhanced-command-prompt-portable) - Based on Command Prompt Portable, ECPP enables PC enthusiasts, who bring a lot of portable utilities with them on a flash drive, to easily execute them by names or commands from a consolidated console
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 
 ## command-line 
