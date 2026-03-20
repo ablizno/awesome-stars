@@ -139,7 +139,7 @@
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [aedans/mtg-card-links](https://github.com/aedans/mtg-card-links) - Scryfall integration for Obsidian
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
-- [NextFire/apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) - 🎵 Discord Rich Presence Client for the macOS Apple Music app and iTunes
+- [NextFire/apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) - 🎵 Discord Rich Presence Client (profile status) for the macOS Apple Music app
 - [axelson/obsidian-auto-note-mover](https://github.com/axelson/obsidian-auto-note-mover) - This is a plugin for Obsidian (https://obsidian.md).
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
