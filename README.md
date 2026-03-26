@@ -123,6 +123,7 @@
 
 ## Shell 
 
+- [GiuseppeGalilei/Unifi-Network-Application](https://github.com/GiuseppeGalilei/Unifi-Network-Application) - Easily deploy Unifi Network Application, on Docker 🐳
 - [parisni/dfzf](https://github.com/parisni/dfzf) - Effortless windows management for Sway/i3 with fzf — no tabs, no clutter.
 - [Exarkuniv/RetroPie-Extra](https://github.com/Exarkuniv/RetroPie-Extra) - A collection of unofficial scripts for adding more emulators/ports/games to RetroPie.
 - [mb1986/rm-hacks](https://github.com/mb1986/rm-hacks) - Small improvements and tweaks for rM devices, covering both rM1 and rM2.
