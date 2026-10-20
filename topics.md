@@ -19,6 +19,7 @@
 - [discord](#discord)
 - [docker](#docker)
 - [dotnet](#dotnet)
+- [emulator](#emulator)
 - [firefox](#firefox)
 - [game](#game)
 - [game-development](#game-development)
@@ -123,6 +124,10 @@
 ## dotnet 
 
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
+
+## emulator 
+
+- [ProRapSuperstarOriginalMaster/Yabadabadoo](https://github.com/ProRapSuperstarOriginalMaster/Yabadabadoo) - Yabadabadoo is a fork of Yabause optimised for Miyoo Mini devices
 
 ## firefox 
 
