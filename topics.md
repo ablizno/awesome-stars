@@ -53,6 +53,7 @@
 - [terminal](#terminal)
 - [vim](#vim)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [webapp](#webapp)
 - [windows](#windows)
 - [zsh](#zsh)
@@ -319,6 +320,10 @@
 ## vpn 
 
 - [strongswan/strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
+
+## vscode 
+
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 
 ## webapp 
 
